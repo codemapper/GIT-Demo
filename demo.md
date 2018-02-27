@@ -1,4 +1,4 @@
-Demo
+# Demo #
 
 1)	mkdir gitdemo_user1
 2)	mkdir gitdemo_user2
@@ -9,6 +9,7 @@ Demo
 4)	notepad text1.txt  //user1
 5)	notepad text1.txt  //user2
 
+## Konflikte lösen ##
 	
 6)	User 1: git commit -am "File changed"
 7)	User 2: git commit -am "File changed"
@@ -21,7 +22,7 @@ Demo
 14)	user2: Konflikte auflösen
 15)	User 2: git push 	< Jetzt geht es
 
-
+## Arbeiten mit Branches ##
 
 1)	git branch branch-a
 2)	git branch		
