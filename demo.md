@@ -17,3 +17,7 @@
 12)	Wichtig!!! Immer commiten!
 12)	user2: git commit -am "File changed"
 13)	User 2: git push 	< Jetzt geht es
+
+
+
+14)
