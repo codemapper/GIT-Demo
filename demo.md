@@ -25,6 +25,7 @@
 15) 	git checkout branch-A
 16)	notepad textB.txt
 17)	git add textB.txt
+18)	git commit -am "new file textB.txt added"
 17) 	git push --set-upstream origin branch-A
 18)	git checkout master
 19)	git merge branch-A master
