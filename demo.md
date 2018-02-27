@@ -21,10 +21,9 @@
 
 
 14)	git branch branch-a
-<<<<<<< HEAD
 15) 	git checkout branch-A
 16) 	git push --set-upstream origin branch-A
 17)	git checkout master
-=======
-15) 	
->>>>>>> branch-A
+18)	git merge branch-A master
+19)	git branch -D branch-A		//delete local branch
+20	git branch -D branch_name 	//delete remote branch
