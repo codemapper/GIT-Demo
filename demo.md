@@ -21,6 +21,10 @@
 
 
 14)	git branch branch-a
+<<<<<<< HEAD
 15) 	git checkout branch-A
 16) 	git push --set-upstream origin branch-A
 17)	git checkout master
+=======
+15) 	
+>>>>>>> branch-A
