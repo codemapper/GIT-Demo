@@ -12,7 +12,7 @@
 7)	User 2: git commit -am "File changed"
 8)	User 1: git push
 9)	User 2: git push	< Fehler!!!  You may want to first integrate the remote changes
-10)	Konflikt auflösen
+10)	Konflikt auflösen	\\commit + pull
 11)	User 2: git push	< Fehler!!!  You may want to first integrate the remote changes
 12)	Wichtig!!! Immer commiten!
 12)	user2: git commit -am "File changed"
