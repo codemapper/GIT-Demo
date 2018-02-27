@@ -28,7 +28,7 @@
 5)	git add textB.txt
 6)	git commit -am "new file textB.txt added"
 7) 	git push --set-upstream origin branch-A
-8)	git checkout master
+8)	git checkout master  
 9)	git merge branch-A master
 10)	git branch -D branch-A			//delete local branch
 11)	git push origin --delete branch-A 	//delete remote branch
