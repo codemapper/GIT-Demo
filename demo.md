@@ -1,3 +1,5 @@
+-- Dmeo --
+
 1)	mkdir gitdemo_user1
 2)	mkdir gitdemo_user2
 	Beide user1 und user2 
@@ -32,3 +34,4 @@
 9)	git merge branch-A master
 10)	git branch -D branch-A			//delete local branch
 11)	git push origin --delete branch-A 	//delete remote branch
+
