@@ -1,4 +1,4 @@
--- Dmeo --
+Demo
 
 1)	mkdir gitdemo_user1
 2)	mkdir gitdemo_user2
