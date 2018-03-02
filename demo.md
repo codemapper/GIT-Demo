@@ -36,3 +36,6 @@
 10)	git branch -D branch-a			//delete local branch
 11)	git push --delete branch-a 	//delete remote branch //short: git push -d origin branch-a
 
+
+## Reset ##
+git reset --hard old-commit-id //see e.g. git log
