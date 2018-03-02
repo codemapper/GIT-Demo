@@ -26,13 +26,13 @@
 
 1)	git branch branch-a
 2)	git branch		
-3) 	git checkout branch-A
+3) 	git checkout branch-a
 4)	notepad textB.txt
 5)	git add textB.txt
 6)	git commit -am "new file textB.txt added"
-7) 	git push --set-upstream origin branch-A
+7) 	git push --set-upstream origin branch-a  //git push -u origin branch-a
 8)	git checkout master  
-9)	git merge branch-A master
-10)	git branch -D branch-A			//delete local branch
-11)	git push origin --delete branch-A 	//delete remote branch
+9)	git merge branch-a master
+10)	git branch -D branch-a			//delete local branch
+11)	git push --delete branch-a 	//delete remote branch
 
