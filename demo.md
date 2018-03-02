@@ -39,3 +39,7 @@
 
 ## Reset ##
 git reset --hard old-commit-id //see e.g. git log
+
+## Clone inkl. switch Branches ##
+git clone https://github.com/ICT-BBC/mvc.git
+git checkout controller
